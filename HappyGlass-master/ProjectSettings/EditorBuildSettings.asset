@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Happy Glass/Scenes/LoadScene.unity
+    guid: 47cd94553d3c40a488da64256492b2bc
+  - enabled: 1
     path: Assets/Happy Glass/Scenes/MainMenu.unity
     guid: 0648ac658629f81499a8fe2193304293
   - enabled: 1

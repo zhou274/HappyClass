@@ -43,7 +43,7 @@ public class ButtonManager : MonoBehaviour {
     }
     public void Hint()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("2wmldp5ipt31i0g37b",
             (bol) => {
                 if (bol)
                 {

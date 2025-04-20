@@ -112,7 +112,7 @@ public class GlassFill : MonoBehaviour {
     }
     void nextScene()
     {
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("b8ghqeln7bi3dfw10d",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
